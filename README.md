@@ -7,9 +7,11 @@
 
 <body>
 
-<h1>Hello World!</h1>
+    <h1>Welcome to My Website</h1>
 
-<p>My website is working!</p>
+    <p>This is my first website using HTML and CSS.</p>
+
+    <img src="picture.jpg" width="300">
 
 </body>
 </html>
